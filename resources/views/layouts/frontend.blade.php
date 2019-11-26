@@ -69,7 +69,7 @@
                     </div>
 
                     <div class="images-block">
-                        <img src="{{asset('app/img/subscr-gear.png')}}" alt="gear" class="gear">
+                        <img src="{{ asset('app/img/subscr-gear.png')}}" alt="gear" class="gear">
                         <img src="{{ asset('app/img/subscr1.png')}}" alt="mail" class="mail">
                         <img src="{{ asset('app/img/subscr-mailopen.png')}}" alt="mail" class="mail-2">
                     </div>
